@@ -1,0 +1,2 @@
+# static-curtismethod
+curtismethod.com
