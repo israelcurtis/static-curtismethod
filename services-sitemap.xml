@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>/services/childbirth-education-classes/</loc>
+		<lastmod>2017-05-17T17:10:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/services/infant-massage/</loc>
+		<lastmod>2015-12-30T03:15:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/services/labor-support-doula/</loc>
+		<lastmod>2017-05-17T17:10:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/services/postpartum-doula/</loc>
+		<lastmod>2016-01-18T02:23:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/services/postpartum-massage/</loc>
+		<lastmod>2016-01-18T02:23:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/services/prenatal-massage/</loc>
+		<lastmod>2015-12-30T03:15:01+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/services/reflexology-for-pregnancy-and-childbirth/</loc>
+		<lastmod>2015-12-30T03:15:01+00:00</lastmod>
+	</url>
+</urlset>
